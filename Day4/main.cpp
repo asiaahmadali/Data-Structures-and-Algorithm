@@ -2,5 +2,5 @@
 using namespace std ;
 
 int main(){
-    cout << "dhjhh" ;
+    cout << "and operation is : " << 4&6 ;
 }
